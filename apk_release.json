@@ -1,0 +1,8 @@
+[
+  {
+    "version": "MatriX.141",
+    "versionInt": 141,
+    "link": "https://github.com/shadow-enthusiast/TorrServe-releases/releases/download/MatriX.141.Client/TorrServe_MatriX.141.Client-release.apk",
+    "desc": "- Upstream sync to MatriX.141\n- Added socks proxy mode + URL settings\n- Added upstream proxy settings (EnableProxy/ProxyHosts)"
+  }
+]
