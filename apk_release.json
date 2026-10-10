@@ -3,7 +3,7 @@
     "version": "MatriX.143",
     "versionInt": 143,
     "link": "https://github.com/shadow-enthusiast/TorrServe-releases/releases/download/MatriX.143.Client/TorrServe_MatriX.143.Client-release.apk",
-    "desc": "- Добавлена поддержка категорий торрентов для ТВ / приставок\r\n- Авто обнаружение серверов в локальной сети (mDNS)\r\n- Поддержка воспроизведения M3U в Kodi 22+\r\n- Настройка отключения сервиса специальных возможностей при смене сервера\r\n- Добавлен румынский язык\r\n\r\nСпасибо @tsynik @pavelpikta @vuzzym"
+    "desc": "Сборка форка shadow-enthusiast на базе MatriX.143\n\n- Добавлена поддержка категорий торрентов для ТВ / приставок\r\n- Авто обнаружение серверов в локальной сети (mDNS)\r\n- Поддержка воспроизведения M3U в Kodi 22+\r\n- Настройка отключения сервиса специальных возможностей при смене сервера\r\n- Добавлен румынский язык\r\n\r\nСпасибо @tsynik @pavelpikta @vuzzym"
   },
   {
     "version": "MatriX.141",
