@@ -1,5 +1,11 @@
 [
   {
+    "version": "MatriX.144",
+    "versionInt": 144,
+    "link": "https://github.com/shadow-enthusiast/TorrServe-releases/releases/download/MatriX.144.Client/TorrServe_MatriX.144.Client-release.apk",
+    "desc": "Сборка форка shadow-enthusiast на базе MatriX.144\n\n- Обновлены настройки TorrServe\r\n- Добавлена поддержка плеера Magnet Series\r\n- Добавлена поддержка BDRIP для Magnet Series\r\n- Добавлена поддержка плеера Just+\r\n- Добавлен поиск Torznab на экране добавления\r\n- Выполнен рефакторинг экрана поиска серверов\r\n- Добавлен виджет поиска\r\n\r\nСпасибо @tsynik @ivanarray @Drafteed @srgsf @levende"
+  },
+  {
     "version": "MatriX.143",
     "versionInt": 143,
     "link": "https://github.com/shadow-enthusiast/TorrServe-releases/releases/download/MatriX.143.Client/TorrServe_MatriX.143.Client-release.apk",
